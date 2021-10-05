@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Youtube2", "Youtube2.csproj", "{C82548CC-EDD5-4E1F-9D9A-B484D7E9133E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoutubeAuth", "..\YoutubeAuth\YoutubeAuth.csproj", "{9D40FC26-C015-499F-840F-D6AF2A835B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C82548CC-EDD5-4E1F-9D9A-B484D7E9133E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82548CC-EDD5-4E1F-9D9A-B484D7E9133E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82548CC-EDD5-4E1F-9D9A-B484D7E9133E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82548CC-EDD5-4E1F-9D9A-B484D7E9133E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D40FC26-C015-499F-840F-D6AF2A835B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D40FC26-C015-499F-840F-D6AF2A835B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D40FC26-C015-499F-840F-D6AF2A835B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D40FC26-C015-499F-840F-D6AF2A835B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01800043-FB94-4525-A378-5B19156719B1}
+	EndGlobalSection
+EndGlobal
